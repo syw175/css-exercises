@@ -1,0 +1,20 @@
+.simple-class {
+    background-color: rgb(236, 122, 194);
+    font-family: Verdana, DejaVuSans, sans-serif;
+}
+
+.simple-class.unique
+{
+    font-size: 24px;
+}
+
+#important-id {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 900;
+}
